@@ -1,8 +1,6 @@
 <h1 align="center">  &#x2728; Hi, I'm Purohit  Naresh  &#x2728;</h1>
 <h3 align="center">I'm passionate about Android Development , Web Deveoplement & Blockchain Technology &#128147;</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icanerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="icanerdogan" /> </p>
-
 - 🔭 I’m currently working on **Web Development with Angular and react js**
 
 - 🌱 I’m currently learning **Blockchain Programming**
