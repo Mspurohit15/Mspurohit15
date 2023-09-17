@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Mspurohit15
-- 👀 I’m interested in Software side of deveoplment 
-- 🌱 I’m currently learning Android deveoplment and upgrading my skillsets 
-- 💞️ I’m looking to collaborate with you and bulid strong connection 
-- 📫 How to reach me  ... You can connect me on twitter as well Linkdlin 
+<h1 align="center">  &#x2728; Hi, I'm Purohit  Naresh  &#x2728;</h1>
+<h3 align="center">I'm passionate about Android Development , Web Deveoplement & Blockchain Technology &#128147;</h3>
 
-<!---
-Mspurohit15/Mspurohit15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=icanerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="icanerdogan" /> </p>
+
+- 🔭 I’m currently working on **Web Development with Angular and react js**
+
+- 🌱 I’m currently learning **Blockchain Programming**
+
+- 📝 I regularly write articles on LinkedIn  
+
+- 💬 Ask me about **Android (Kotlin&Java) and  Web(Angular & React)**
+
+- 📫 How to reach me **nareshkumarpurohit7890@gmail.com**
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/naresh-purohit-5130891a8/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="Purohit Naresh" height="40" width="40" /></a>
