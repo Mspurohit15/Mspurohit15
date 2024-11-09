@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">  &#x2728; Hi, I'm Purohit  Naresh  &#x2728;</h1>
 <h3 align="center">I'm passionate Developer | Android | Web | Startup Enthusiast &#128147;</h3>
 
@@ -23,7 +25,25 @@
 
 - 📫 Feel free to reach me out  **nareshkumarpurohit7890@gmail.com**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,android,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">
   <a href="https://www.linkedin.com/in/naresh-purohit-5130891a8/" target="blank">
     <img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="Purohit Naresh" height="40" width="40" />
