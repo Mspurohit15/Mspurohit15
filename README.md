@@ -1,6 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">  &#x2728; Hi, I'm Purohit  Naresh  &#x2728;</h1>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">I'm passionate Developer | Android | Web | Startup Enthusiast &#128147;</h3>
 
 
@@ -8,6 +11,7 @@
   <img align="right" top="600" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🔭 I’m currently working on **Java, Azure, Android, React, Angular, React Native, Nodejs, MongoDB.**
   
@@ -55,3 +59,5 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
