@@ -11,8 +11,6 @@
   <img align="right" top="600" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 - 🔭 I’m currently working on **Java, Azure, Android, React, Angular, React Native, Nodejs, MongoDB.**
   
 - ☁️ I've a keen interest in **cloud computing**. So, I'm learning **Azure.**
