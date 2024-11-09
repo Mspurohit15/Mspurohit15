@@ -1,11 +1,15 @@
 <h1 align="center">  &#x2728; Hi, I'm Purohit  Naresh  &#x2728;</h1>
 <h3 align="center">I'm passionate Developer | Android | Web | Startup Enthusiast &#128147;</h3>
+
+
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="600" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-- 🔭 I’m currently working on **Java, Azure, Android, React, Angular, React Native, Nodejs, MongoDB**
+
+
+- 🔭 I’m currently working on **Java, Azure, Android, React, Angular, React Native, Nodejs, MongoDB.**
   
-- ☁️ I've a keen interest in **cloud computing**. So, I'm learning **Azure**
+- ☁️ I've a keen interest in **cloud computing**. So, I'm learning **Azure.**
 
 - 🌱 I’m currently learning to **put together multiple Hyper Beast Stacks for Scalable Applications**.
 
