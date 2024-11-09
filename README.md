@@ -1,17 +1,23 @@
 <h1 align="center">  &#x2728; Hi, I'm Purohit  Naresh  &#x2728;</h1>
-<h3 align="center">I'm passionate about Android Development , Web Deveoplement & Blockchain Technology &#128147;</h3>
+<h3 align="center">I'm passionate Developer | Android | Web | Startup Enthusiast &#128147;</h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+- 🔭 I’m currently working on **Java, Azure, Android, React, Angular, React Native, Nodejs, MongoDB**
+  
+- ☁️ I've a keen interest in **cloud computing**. So, I'm learning **Azure**
 
-- 🔭 I’m currently working on **Web Development with Angular and react js**
-
-- 🌱 I’m currently learning **Blockchain Programming**
+- 🌱 I’m currently learning to **put together multiple Hyper Beast Stacks for Scalable Applications**.
 
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/naresh-purohit-5130891a8/)**
 
 - 🚀 I'm fascinated by **startups** and love exploring new technologies like **IoT and serverless architecture**
+
+- 🤝 I’m available for freelancing.
   
 - 💬 Ask me about **Android (Kotlin&Java) and  Web(Angular & React)**
 
-- 📫 How to reach me **nareshkumarpurohit7890@gmail.com**
+- 📫 Feel free to reach me out  **nareshkumarpurohit7890@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
